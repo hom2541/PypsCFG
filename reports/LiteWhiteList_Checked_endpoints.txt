@@ -1,41 +1,41 @@
 OK 141ms 95.163.211.237:8080 cached
 OK 144ms 95.163.211.237:80 cached
-OK 127ms 78.159.245.40:8445 cached
-OK 132ms 95.163.232.240:443
-OK 132ms 178.176.128.203:443
+OK 157ms 78.159.245.40:8445
+OK 132ms 95.163.232.240:443 cached
 OK 136ms 95.163.250.241:8440 cached
-OK 137ms 95.163.209.247:443 cached
 OK 114ms 109.120.179.99:443 cached
 OK 146ms 37.139.34.90:443 cached
+OK 130ms 78.159.246.85:2053 cached
+OK 159ms 78.159.250.107:443 cached
+OK 126ms 178.176.128.128:443 cached
+OK 140ms 176.108.245.237:443 cached
+OK 108ms 109.120.134.181:443 cached
+OK 108ms 89.208.113.16:443 cached
+OK 99ms 45.129.176.34:6443 cached
 OK 148ms 5.188.141.139:443 cached
-OK 132ms 51.250.86.102:443
+OK 132ms 51.250.86.102:443 cached
 OK 143ms 51.250.74.50:443 cached
 OK 154ms 51.250.72.20:443 cached
 OK 108ms 78.159.111.14:443 cached
 OK 154ms 51.250.117.30:443 cached
 OK 142ms 51.250.70.163:443 cached
-OK 123ms 176.108.241.183:443
+OK 123ms 176.108.241.183:443 cached
 OK 152ms 84.201.181.141:443 cached
 OK 146ms 51.250.90.142:443 cached
 OK 139ms 95.163.251.110:443 cached
-OK 76ms 176.122.173.224:443 cached
-OK 130ms 78.159.246.85:2053
-OK 159ms 78.159.250.107:443 cached
-OK 126ms 178.176.128.128:443
-OK 140ms 176.108.245.237:443 cached
-OK 108ms 109.120.134.181:443
-OK 108ms 89.208.113.16:443 cached
-OK 99ms 45.129.176.34:6443 cached
-OK 91ms 45.129.242.56:443
-OK 89ms 185.177.229.95:1270
-OK 135ms 5.53.124.191:8008 cached
+OK 212ms vps3.nemnogogo.com:443
+OK 259ms ru1.cdn-space.org:443 cached
+OK 181ms 141.133.189.150:443
+OK 190ms 141.133.189.154:443
 OK 145ms 185.221.213.22:443 cached
-OK 139ms 5.42.107.38:14443 cached
-OK 266ms api.file-obmen.top:443
-OK 418ms germ.onlineai.pro:14443 cached
-OK 231ms chat.gpt.prem-ai.shop:443
-OK 176ms fst.krevetkabs111.net:443
-OK 136ms 138.16.249.118:14443 cached
-OK 248ms lt.krevetkabs111.net:14443
+OK 241ms frfast11.onlineai.pro:443 cached
+OK 266ms api.file-obmen.top:443 cached
+OK 236ms astravellion.xyz:443 cached
+OK 147ms lorettmay.top:443 cached
+OK 181ms 141.133.189.147:443
+OK 231ms chat.gpt.prem-ai.shop:443 cached
+OK 138ms 185.173.179.218:443 cached
+OK 181ms 141.133.189.156:443
+OK 181ms 138.16.249.118:14443
+OK 248ms lt.krevetkabs111.net:14443 cached
 OK 247ms lt.neuroblur.top:14443 cached
-OK 452ms stream.yabenzin.app:443 cached
