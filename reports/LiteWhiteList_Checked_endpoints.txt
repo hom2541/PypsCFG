@@ -1,8 +1,14 @@
 OK 158ms 95.163.211.237:8080 cached
 OK 151ms 95.163.211.237:80 cached
+OK 219ms 78.159.250.83:8443 cached
 OK 147ms 37.18.14.177:443 cached
 OK 159ms 78.159.250.83:443 cached
-OK 219ms 78.159.250.83:8443 cached
+OK 148ms 178.176.128.128:443 cached
+OK 115ms 89.208.113.16:443 cached
+OK 111ms 45.129.242.56:443 cached
+OK 132ms 217.12.206.79:443
+OK 115ms 109.120.179.99:443 cached
+OK 151ms 37.139.34.90:443 cached
 OK 155ms 5.188.141.139:443 cached
 OK 156ms 51.250.86.102:443 cached
 OK 150ms 51.250.74.50:443 cached
@@ -15,23 +21,14 @@ OK 152ms 84.201.181.141:443 cached
 OK 147ms 51.250.92.100:443 cached
 OK 158ms 51.250.90.142:443 cached
 OK 143ms 95.163.251.110:443 cached
-OK 115ms 109.120.179.99:443 cached
-OK 151ms 37.139.34.90:443 cached
-OK 148ms 178.176.128.128:443 cached
-OK 115ms 89.208.113.16:443 cached
-OK 111ms 45.129.242.56:443 cached
-OK 429ms 78ec29x.fi2.h1clayd.click:443 cached
-OK 214ms 83.171.241.238:443 cached
+OK 166ms 213.171.26.51:23444
+OK 166ms 45.151.101.219:443
 OK 583ms f0f0bet.fi2.h1clayd.click:443 cached
-OK 135ms 104.171.139.81:443
-OK 730ms luminexorizon.ink:443 cached
+OK 429ms 78ec29x.fi2.h1clayd.click:443 cached
+OK 384ms clover.filnex.baby:443
+OK 485ms reedbed.filnex.baby:443
+OK 386ms rivulet.filnex.baby:443
 OK 109ms 185.178.208.167:443 cached
 OK 337ms speakpro.lol:443 cached
-OK 238ms lorettmay.top:443 cached
-OK 484ms 38917fx.es1.h1clayd.click:443 cached
-OK 428ms 38917fx.es9.h1clayd.click:443 cached
-OK 514ms 7aa271t.es1.h1clayd.click:443 cached
-OK 398ms 7aa271t.es9.h1clayd.click:443 cached
-OK 518ms b3cd32g.es1.h1clayd.click:443 cached
+OK 166ms 45.151.102.155:443
 OK 148ms 92.255.58.59:443 cached
-OK 95ms 185.178.208.140:443 cached
