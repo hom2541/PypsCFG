@@ -1,36 +1,15 @@
-OK 128ms 78.159.250.155:8443
-OK 95ms 109.120.179.99:443
-OK 134ms 37.139.34.90:443
-OK 126ms 178.176.128.128:443
-OK 100ms 89.208.113.16:443
-OK 123ms 78.159.250.83:443
-OK 126ms 51.250.87.28:443
-OK 142ms 5.188.141.139:443
-OK 126ms 51.250.86.102:443
-OK 127ms 51.250.74.50:443
-OK 96ms 78.159.111.14:443
-OK 130ms 51.250.84.253:443
-OK 135ms 51.250.117.30:443
-OK 128ms 51.250.70.163:443
-OK 126ms 176.108.241.183:443
-OK 128ms 84.201.181.141:443
-OK 130ms 51.250.92.100:443
-OK 130ms 51.250.90.142:443
-OK 138ms 95.163.251.110:443
-OK 136ms 95.163.211.237:8080
-OK 130ms 95.163.211.237:80
-OK 136ms 77.95.203.4:443
-OK 158ms almanac.filnex.baby:443
-OK 161ms bookend.filnex.baby:443 cached
-OK 204ms ledger.filnex.baby:443 cached
-OK 176ms linen.filnex.baby:443
+OK 136ms 95.163.211.237:8080 cached
+OK 130ms 95.163.211.237:80 cached
+OK 172ms 84.38.189.122:443
+OK 186ms 176.108.244.162:443
+OK 213ms foliose.merlano.monster:443
+OK 209ms harbor.gerqix.online:443
 OK 175ms marsh.moltex.click:443 cached
-OK 187ms pigment.merlano.monster:443
-OK 171ms vellum.merlano.monster:443 cached
-OK 418ms willow.filnex.baby:443 cached
-OK 242ms willowbank.moltex.click:443
-OK 157ms woodgrain.filnex.baby:443 cached
-OK 188ms ws3.falmero.store:443 cached
-OK 135ms 168.113.143.5:443
-OK 284ms rsk3.betust.net:443
-OK 124ms 87.242.94.49:443
+OK 242ms willowbank.moltex.click:443 cached
+OK 212ms nursery.elvano.website:443
+OK 193ms 89.169.2.136:443
+OK 165ms 46.17.47.121:8080 cached
+OK 176ms 168.113.254.183:443
+OK 175ms 168.113.254.247:443
+OK 170ms 176.108.240.182:443
+OK 165ms 185.151.243.186:443
