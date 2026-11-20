@@ -152,7 +152,7 @@ OK 183ms plaindune.com:8443 cached
 OK 514ms 510.150333.xyz:21003 cached
 OK 92ms 200.96.106.2:9889 cached
 OK 89ms 93.190.9.85:3090 cached
-OK 37ms chess.com:443 cached
+OK 76ms chess.com:443
 OK 159ms 168.138.43.75:80 cached
 OK 91ms 164.37.224.238:443 cached
 OK 87ms 50.7.95.230:443 cached

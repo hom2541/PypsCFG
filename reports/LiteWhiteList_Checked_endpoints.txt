@@ -1,15 +1,13 @@
 OK 136ms 95.163.211.237:8080 cached
 OK 130ms 95.163.211.237:80 cached
-OK 172ms 84.38.189.122:443
-OK 186ms 176.108.244.162:443
-OK 213ms foliose.merlano.monster:443
-OK 209ms harbor.gerqix.online:443
-OK 175ms marsh.moltex.click:443 cached
-OK 242ms willowbank.moltex.click:443 cached
-OK 212ms nursery.elvano.website:443
-OK 193ms 89.169.2.136:443
-OK 165ms 46.17.47.121:8080 cached
-OK 176ms 168.113.254.183:443
-OK 175ms 168.113.254.247:443
-OK 170ms 176.108.240.182:443
-OK 165ms 185.151.243.186:443
+OK 136ms 185.178.208.167:443
+OK 451ms api.mediaroshcha.cc:443
+OK 183ms 130.49.172.150:30010
+OK 513ms f0f0bet.fi2.h1clayd.click:443
+OK 177ms 130.49.172.150:30007
+OK 533ms api.mediatropa.cc:443
+OK 186ms 176.108.244.162:443 cached
+OK 176ms 168.113.254.183:443 cached
+OK 165ms 185.151.243.186:443 cached
+OK 175ms 168.113.254.247:443 cached
+OK 170ms 176.108.240.182:443 cached

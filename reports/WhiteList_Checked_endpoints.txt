@@ -1,5 +1,3 @@
-OK 136ms 95.163.211.237:8080 cached
-OK 130ms 95.163.211.237:80 cached
 OK 578ms saas.sin.fan:443 cached
 OK 6ms 188.114.98.0:443 cached
 OK 6ms 104.17.147.22:443 cached
@@ -38,61 +36,15 @@ OK 121ms de1.balancer.vbuste-bot.com:443 cached
 OK 130ms du-rov.secureservice.top:8443 cached
 OK 89ms 64.188.70.56:443 cached
 OK 88ms 130.49.161.70:443 cached
-OK 170ms 158.160.231.108:8443
-OK 130ms 109.69.218.165:443
-OK 132ms 109.69.218.167:443
-OK 129ms 109.69.218.166:443
-OK 15ms 104.26.12.31:80
-OK 14ms 104.18.3.108:8443
-OK 9ms 104.31.16.158:443
-OK 108ms 172.67.204.84:443
-OK 6ms 188.114.96.3:443 cached
-OK 36ms 104.21.61.58:443
-OK 6ms 185.148.107.253:8880 cached
-OK 199ms test.firm-tower.test-cdn-kkk.com:443
-OK 6ms 45.130.125.253:8880 cached
-OK 170ms 84.201.131.34:443
-OK 175ms 103.213.249.46:443
-OK 190ms test.vast-mesa.test-cdn-kkk.com:443
-OK 14ms 104.18.2.108:8443
-OK 154ms 193.24.235.214:443
-OK 150ms 159.65.125.162:2087
-OK 152ms 82.38.65.91:10086
-OK 19ms 104.18.2.26:2083
-OK 13ms 104.21.25.157:443
-OK 6ms 198.177.56.253:8880 cached
-OK 10ms 141.101.123.253:8880
-OK 8ms 92.53.191.253:8880 cached
-OK 133ms 109.69.218.164:443
-OK 14ms 104.18.3.150:443
-OK 212ms 185.177.219.186:443
-OK 19ms 104.18.3.26:2083
-OK 41ms cdn.prostovpn.website:2087
-OK 196ms test.grey-lance.test-cdn-kkk.com:443
-OK 168ms test.red-blaze.test-cdn-kkk.com:443
-OK 268ms test.soft-blade.test-cdn-kkk.com:443
-OK 172ms hu.chocolatemango.live:443
-OK 38ms square-sea-36d2.sendconfig.workers.dev:443
-OK 214ms test.raw-maple.test-cdn-kkk.com:443
-OK 214ms test.bold-stone.test-cdn-kkk.com:443
-OK 224ms nl.normbot.ru:443
-OK 222ms test.iron-coral.test-cdn-kkk.com:443
-OK 88ms www.visaeurope.ch:2083
-OK 39ms cf.008500.xyz:443
-OK 129ms www.visasoutheasteurope.com:2096
-OK 192ms test.wide-frost.test-cdn-kkk.com:8443
-OK 267ms srv31.towersflowerss.com:443
-OK 188ms 185.86.145.173:443
-OK 172ms 84.38.189.122:443
-OK 186ms 176.108.244.162:443
-OK 213ms foliose.merlano.monster:443
-OK 209ms harbor.gerqix.online:443
-OK 175ms marsh.moltex.click:443 cached
-OK 242ms willowbank.moltex.click:443 cached
-OK 212ms nursery.elvano.website:443
-OK 193ms 89.169.2.136:443
-OK 165ms 46.17.47.121:8080 cached
-OK 176ms 168.113.254.183:443
-OK 175ms 168.113.254.247:443
-OK 170ms 176.108.240.182:443
-OK 165ms 185.151.243.186:443
+OK 136ms 185.178.208.167:443
+OK 451ms api.mediaroshcha.cc:443
+OK 183ms 130.49.172.150:30010
+OK 513ms f0f0bet.fi2.h1clayd.click:443
+OK 177ms 130.49.172.150:30007
+OK 533ms api.mediatropa.cc:443
+OK 186ms 176.108.244.162:443 cached
+OK 176ms 168.113.254.183:443 cached
+OK 165ms 185.151.243.186:443 cached
+OK 175ms 168.113.254.247:443 cached
+OK 170ms 176.108.240.182:443 cached
+OK 214ms tochkacdn.top:443
