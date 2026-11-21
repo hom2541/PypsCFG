@@ -1,7 +1,12 @@
-OK 164ms almanac.filnex.baby:443
-OK 198ms 147.45.97.130:2066 cached
-OK 191ms 83.166.237.124:8444 cached
-OK 128ms sunfield.moltex.click:443
-OK 139ms willowbank.moltex.click:443
-OK 130ms ledger.filnex.baby:443
-OK 117ms 168.113.254.183:443
+OK 185ms 82.202.142.227:23444
+OK 208ms 109.107.189.69:8443
+OK 216ms 81.163.22.238:443
+OK 199ms 107.150.93.43:443
+OK 740ms files-qzgs.login.opendns.stream:443
+OK 119ms 91.185.83.43:443 cached
+OK 204ms 46.243.233.194:443
+OK 204ms pssdwynorv.newwl.pro:443
+OK 356ms lt-tcp.h1.vpnprime.ru:443
+OK 207ms 77.232.40.206:443
+OK 184ms 66.90.91.122:443
+OK 190ms 170.168.5.123:8228
