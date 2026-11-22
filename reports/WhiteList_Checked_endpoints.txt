@@ -1,99 +1,96 @@
-OK 366ms saas.sin.fan:443
-OK 239ms bg5.univesalsrv.com:443
-OK 18ms 188.114.98.0:443
-OK 223ms bg2.univesalsrv.com:443
-OK 18ms 104.17.147.22:443
-OK 325ms yoy-api.bachidze.com:443
-OK 19ms 172.64.150.43:443
-OK 19ms 162.159.135.234:443
-OK 526ms md3.univesalsrv.com:443
-OK 351ms qq.utiltools.site:443
-OK 266ms www.speedtest.net:443
-OK 19ms 188.114.97.6:443
-OK 215ms rs1.univesalsrv.com:443
-OK 232ms rs4.univesalsrv.com:443
-OK 184ms rs5.univesalsrv.com:443
-OK 18ms 172.64.153.61:443
-OK 163ms 89.35.14.32:443
-OK 248ms rs3.univesalsrv.com:443
-OK 178ms edge.bookmai.com:443
-OK 18ms 162.159.130.234:443
-OK 331ms studio.10media.top:443
-OK 18ms 188.114.99.0:8880
-OK 740ms reaza.localip.ir:443
-OK 443ms 36a466g.fi1.h1clayd.click:443
-OK 219ms bg4.univesalsrv.com:443
-OK 235ms bg3.univesalsrv.com:443
-OK 114ms cl-glb6e059ee.gcdn.co:443
-OK 455ms samgeez.online:8443
-OK 353ms freede.aiage.work:443
-OK 257ms tg1.cdnphotos.org:443
-OK 235ms rs2.univesalsrv.com:443
-OK 20ms 151.101.173.81:443
-OK 19ms 188.114.98.0:2053
-OK 290ms 13.140.56.100:14430
-OK 225ms nl2.balancer.vbuste-bot.com:443
-OK 313ms www.epicgames.com:2095
-OK 401ms us2-2.998998.best:443
-OK 123ms 193.233.82.201:443
-OK 208ms 95.174.68.188:14430
-OK 342ms de2.balancer.vbuste-bot.com:443
-OK 556ms cmfree-hkt.leyali.kdns.fr:443
-OK 137ms 185.125.50.181:443
-OK 169ms 89.35.14.34:443
-OK 120ms 140.225.199.234:443
-OK 159ms 72.56.241.230:443
-OK 273ms fl1.balancer.vbuste-bot.com:443
-OK 18ms 172.64.229.129:2052
-OK 169ms 89.35.14.31:443
-OK 532ms md2.univesalsrv.com:443
-OK 247ms du-rov.secureservice.top:8443
-OK 139ms 64.188.70.56:443
-OK 122ms 130.49.161.70:443
-OK 204ms 46.243.233.194:443 cached
-OK 204ms pssdwynorv.newwl.pro:443 cached
-OK 136ms 185.86.145.173:443 cached
-OK 199ms 107.150.93.43:443 cached
-OK 141ms 185.178.208.167:443 cached
-OK 463ms sw-api.telemetryapi.org:443
-OK 740ms files-qzgs.login.opendns.stream:443 cached
-OK 117ms 185.178.208.140:443
-OK 216ms arbor.elvano.website:443 cached
-OK 551ms archive.filnex.baby:443 cached
-OK 226ms bayleaf.elvano.website:443 cached
-OK 222ms birchbark.gerqix.online:443 cached
-OK 222ms brookside.moltex.click:443 cached
-OK 404ms cabinet.filnex.baby:443 cached
-OK 258ms cedar.filnex.baby:443 cached
-OK 242ms clearing.moltex.click:443 cached
-OK 798ms fresco.merlano.monster:443 cached
-OK 421ms garden.elvano.website:443 cached
-OK 351ms gesso.merlano.monster:443
-OK 301ms greenhouse.elvano.website:443
-OK 371ms grovewood.moltex.click:443 cached
-OK 363ms heatherfield.moltex.click:443 cached
-OK 382ms lowland.moltex.click:443 cached
-OK 447ms mosaic.merlano.monster:443
-OK 598ms ochre.merlano.monster:443 cached
-OK 451ms palette.merlano.monster:443 cached
-OK 228ms rainwater.elvano.website:443 cached
-OK 281ms reedbank.moltex.click:443
-OK 228ms riverstone.gerqix.online:443 cached
-OK 212ms rowanberry.moltex.click:443 cached
-OK 213ms seaglass.gerqix.online:443 cached
-OK 224ms seedling.elvano.website:443 cached
-OK 204ms tealeaf.elvano.website:443 cached
-OK 209ms terrace.elvano.website:443 cached
-OK 543ms wildflower.elvano.website:443
-OK 119ms 91.185.83.43:443 cached
-OK 207ms 77.232.40.206:443 cached
-OK 184ms 31.177.111.225:443 cached
-OK 344ms alt.edge-assets.ru:443
-OK 144ms 191.44.46.255:443
-OK 172ms 195.209.217.111:443
-OK 203ms 195.209.217.67:443
-OK 179ms 195.209.221.165:443
-OK 182ms 195.209.221.235:443 cached
-OK 362ms moonstone.gerqix.online:443
-OK 271ms parchment.merlano.monster:443 cached
-OK 208ms 109.107.189.69:8443 cached
+OK 142ms 78.159.245.147:445
+OK 140ms 178.176.128.203:443
+OK 134ms 178.176.128.128:443
+OK 133ms 37.139.42.179:443
+OK 162ms 78.159.250.83:443
+OK 196ms 31.129.42.97:8443
+OK 249ms 78.159.250.83:8443
+OK 119ms 109.120.179.99:443
+OK 136ms 37.139.34.90:443
+OK 144ms 78.159.250.155:8443
+OK 141ms 37.139.42.37:443
+OK 137ms 83.166.237.124:8444
+OK 102ms 89.208.113.16:443
+OK 91ms 45.129.242.56:443
+OK 125ms 51.250.87.28:443
+OK 130ms 5.188.141.139:443
+OK 171ms 51.250.86.102:443 cached
+OK 127ms 51.250.74.50:443
+OK 137ms 51.250.72.20:443
+OK 141ms 51.250.13.243:443
+OK 96ms 78.159.111.14:443
+OK 153ms 51.250.84.253:443
+OK 126ms 51.250.117.30:443
+OK 131ms 51.250.70.163:443
+OK 158ms 176.108.241.183:443 cached
+OK 134ms 84.201.181.141:443
+OK 125ms 51.250.92.100:443
+OK 129ms 51.250.90.142:443
+OK 139ms 95.163.251.110:443
+OK 135ms 95.163.211.237:8080
+OK 132ms 95.163.211.237:80
+OK 366ms saas.sin.fan:443 cached
+OK 239ms bg5.univesalsrv.com:443 cached
+OK 18ms 188.114.98.0:443 cached
+OK 223ms bg2.univesalsrv.com:443 cached
+OK 18ms 104.17.147.22:443 cached
+OK 325ms yoy-api.bachidze.com:443 cached
+OK 19ms 172.64.150.43:443 cached
+OK 19ms 162.159.135.234:443 cached
+OK 526ms md3.univesalsrv.com:443 cached
+OK 351ms qq.utiltools.site:443 cached
+OK 266ms www.speedtest.net:443 cached
+OK 19ms 188.114.97.6:443 cached
+OK 215ms rs1.univesalsrv.com:443 cached
+OK 232ms rs4.univesalsrv.com:443 cached
+OK 184ms rs5.univesalsrv.com:443 cached
+OK 18ms 172.64.153.61:443 cached
+OK 163ms 89.35.14.32:443 cached
+OK 248ms rs3.univesalsrv.com:443 cached
+OK 178ms edge.bookmai.com:443 cached
+OK 18ms 162.159.130.234:443 cached
+OK 331ms studio.10media.top:443 cached
+OK 18ms 188.114.99.0:8880 cached
+OK 740ms reaza.localip.ir:443 cached
+OK 443ms 36a466g.fi1.h1clayd.click:443 cached
+OK 219ms bg4.univesalsrv.com:443 cached
+OK 235ms bg3.univesalsrv.com:443 cached
+OK 114ms cl-glb6e059ee.gcdn.co:443 cached
+OK 455ms samgeez.online:8443 cached
+OK 353ms freede.aiage.work:443 cached
+OK 257ms tg1.cdnphotos.org:443 cached
+OK 235ms rs2.univesalsrv.com:443 cached
+OK 20ms 151.101.173.81:443 cached
+OK 19ms 188.114.98.0:2053 cached
+OK 290ms 13.140.56.100:14430 cached
+OK 225ms nl2.balancer.vbuste-bot.com:443 cached
+OK 313ms www.epicgames.com:2095 cached
+OK 401ms us2-2.998998.best:443 cached
+OK 123ms 193.233.82.201:443 cached
+OK 208ms 95.174.68.188:14430 cached
+OK 342ms de2.balancer.vbuste-bot.com:443 cached
+OK 556ms cmfree-hkt.leyali.kdns.fr:443 cached
+OK 137ms 185.125.50.181:443 cached
+OK 169ms 89.35.14.34:443 cached
+OK 120ms 140.225.199.234:443 cached
+OK 159ms 72.56.241.230:443 cached
+OK 273ms fl1.balancer.vbuste-bot.com:443 cached
+OK 18ms 172.64.229.129:2052 cached
+OK 169ms 89.35.14.31:443 cached
+OK 532ms md2.univesalsrv.com:443 cached
+OK 247ms du-rov.secureservice.top:8443 cached
+OK 139ms 64.188.70.56:443 cached
+OK 122ms 130.49.161.70:443 cached
+OK 150ms 185.86.145.173:443
+OK 125ms 82.202.142.227:23444
+OK 149ms 85.8.201.23:443
+OK 145ms 185.244.182.162:443
+OK 99ms 95.129.236.239:443
+OK 253ms files-qzgs.login.opendns.stream:443
+OK 126ms 85.193.90.187:443
+OK 132ms 45.9.14.247:443
+OK 137ms 37.233.80.144:8443
+OK 151ms 37.233.80.144:2053
+OK 150ms 37.233.80.144:2087
+OK 140ms 37.233.80.144:2095
+OK 135ms 37.233.80.144:2083
