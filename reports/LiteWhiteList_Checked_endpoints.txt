@@ -1,12 +1,43 @@
-OK 185ms 82.202.142.227:23444
-OK 208ms 109.107.189.69:8443
-OK 216ms 81.163.22.238:443
-OK 199ms 107.150.93.43:443
-OK 740ms files-qzgs.login.opendns.stream:443
+OK 199ms 107.150.93.43:443 cached
+OK 141ms 185.178.208.167:443 cached
+OK 463ms sw-api.telemetryapi.org:443
+OK 740ms files-qzgs.login.opendns.stream:443 cached
+OK 117ms 185.178.208.140:443
+OK 216ms arbor.elvano.website:443 cached
+OK 551ms archive.filnex.baby:443 cached
+OK 226ms bayleaf.elvano.website:443 cached
+OK 222ms birchbark.gerqix.online:443 cached
+OK 222ms brookside.moltex.click:443 cached
+OK 404ms cabinet.filnex.baby:443 cached
+OK 258ms cedar.filnex.baby:443 cached
+OK 242ms clearing.moltex.click:443 cached
+OK 798ms fresco.merlano.monster:443 cached
+OK 421ms garden.elvano.website:443 cached
+OK 351ms gesso.merlano.monster:443
+OK 301ms greenhouse.elvano.website:443
+OK 371ms grovewood.moltex.click:443 cached
+OK 363ms heatherfield.moltex.click:443 cached
+OK 382ms lowland.moltex.click:443 cached
+OK 447ms mosaic.merlano.monster:443
+OK 598ms ochre.merlano.monster:443 cached
+OK 451ms palette.merlano.monster:443 cached
+OK 228ms rainwater.elvano.website:443 cached
+OK 281ms reedbank.moltex.click:443
+OK 228ms riverstone.gerqix.online:443 cached
+OK 212ms rowanberry.moltex.click:443 cached
+OK 213ms seaglass.gerqix.online:443 cached
+OK 224ms seedling.elvano.website:443 cached
+OK 204ms tealeaf.elvano.website:443 cached
+OK 209ms terrace.elvano.website:443 cached
+OK 543ms wildflower.elvano.website:443
 OK 119ms 91.185.83.43:443 cached
-OK 204ms 46.243.233.194:443
-OK 204ms pssdwynorv.newwl.pro:443
-OK 356ms lt-tcp.h1.vpnprime.ru:443
-OK 207ms 77.232.40.206:443
-OK 184ms 66.90.91.122:443
-OK 190ms 170.168.5.123:8228
+OK 204ms 46.243.233.194:443 cached
+OK 204ms pssdwynorv.newwl.pro:443 cached
+OK 207ms 77.232.40.206:443 cached
+OK 184ms 31.177.111.225:443 cached
+OK 344ms alt.edge-assets.ru:443
+OK 144ms 191.44.46.255:443
+OK 172ms 195.209.217.111:443
+OK 203ms 195.209.217.67:443
+OK 179ms 195.209.221.165:443
+OK 182ms 195.209.221.235:443 cached
