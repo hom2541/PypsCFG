@@ -1,6 +1,6 @@
-BlackList: 3081
-WhiteList: 735
+BlackList: 2327
+WhiteList: 1500
 FavoriteSubBlack: 0
 LiteBlackList: 1155
-LiteWhiteList: 128
-merged_all: 3795
+LiteWhiteList: 89
+merged_all: 3820
