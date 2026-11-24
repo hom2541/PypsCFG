@@ -1,67 +1,74 @@
-OK 228ms saas.sin.fan:443
-OK 200ms bg5.univesalsrv.com:443
-OK 2ms 188.114.98.0:443
-OK 221ms bg2.univesalsrv.com:443
-OK 2ms 104.17.147.22:443
-OK 223ms yoy-api.bachidze.com:443
-OK 2ms 172.64.150.43:443
-OK 2ms 162.159.135.234:443
-OK 321ms md3.univesalsrv.com:443
-OK 196ms qq.utiltools.site:443
-OK 189ms 45.12.63.96:443
-OK 6ms www.speedtest.net:443
-OK 178ms 150.40.126.21:443
-OK 7ms 188.114.97.6:443
-OK 232ms rs1.univesalsrv.com:443
-OK 240ms rs4.univesalsrv.com:443
-OK 229ms rs5.univesalsrv.com:443
-OK 2ms 172.64.153.61:443
-OK 197ms 89.35.14.32:443
-OK 268ms rs3.univesalsrv.com:443
-OK 171ms edge.bookmai.com:443
-OK 2ms 162.159.130.234:443
-OK 222ms studio.10media.top:443
-OK 2ms 188.114.99.0:8880
-OK 185ms 150.40.126.22:443
-OK 178ms 150.40.126.24:443
-OK 725ms reaza.localip.ir:443
-OK 352ms 36a466g.fi1.h1clayd.click:443
-OK 241ms bg4.univesalsrv.com:443
-OK 202ms bg3.univesalsrv.com:443
-OK 5ms cl-glb6e059ee.gcdn.co:443
-OK 409ms samgeez.online:8443
-OK 248ms rs2.univesalsrv.com:443
-OK 1ms 151.101.173.81:443
-OK 5ms 188.114.98.0:2053
-OK 321ms 13.140.56.100:14430
-OK 211ms nl2.balancer.vbuste-bot.com:443
-OK 85ms www.epicgames.com:2095
-OK 78ms us2-2.998998.best:443
-OK 149ms 193.233.82.201:443
-OK 297ms 95.174.68.188:14430
-OK 408ms cmfree-hkt.leyali.kdns.fr:443
-OK 156ms 185.125.50.181:443
-OK 194ms 89.35.14.34:443
-OK 142ms 140.225.199.234:443
-OK 183ms fl1.balancer.vbuste-bot.com:443
-OK 3ms 172.64.229.129:2052
-OK 190ms 89.35.14.31:443
-OK 354ms md2.univesalsrv.com:443
-OK 245ms du-rov.secureservice.top:8443
-OK 144ms 130.49.161.70:443
-OK 270ms 84.23.54.115:443
-OK 167ms 185.86.145.173:443 cached
-OK 199ms 84.23.52.120:34443
-OK 280ms moonwort.gerqix.autos:443
-OK 114ms 95.129.236.239:443 cached
-OK 6ms 45.67.215.111:443 cached
-OK 2ms 45.67.215.17:443
-OK 8ms 45.67.215.20:443 cached
-OK 475ms sw-api.telemetryapi.org:443
+OK 228ms saas.sin.fan:443 cached
+OK 200ms bg5.univesalsrv.com:443 cached
+OK 2ms 188.114.98.0:443 cached
+OK 221ms bg2.univesalsrv.com:443 cached
+OK 2ms 104.17.147.22:443 cached
+OK 223ms yoy-api.bachidze.com:443 cached
+OK 2ms 172.64.150.43:443 cached
+OK 2ms 162.159.135.234:443 cached
+OK 321ms md3.univesalsrv.com:443 cached
+OK 196ms qq.utiltools.site:443 cached
+OK 189ms 45.12.63.96:443 cached
+OK 6ms www.speedtest.net:443 cached
+OK 178ms 150.40.126.21:443 cached
+OK 7ms 188.114.97.6:443 cached
+OK 232ms rs1.univesalsrv.com:443 cached
+OK 240ms rs4.univesalsrv.com:443 cached
+OK 229ms rs5.univesalsrv.com:443 cached
+OK 2ms 172.64.153.61:443 cached
+OK 197ms 89.35.14.32:443 cached
+OK 268ms rs3.univesalsrv.com:443 cached
+OK 171ms edge.bookmai.com:443 cached
+OK 2ms 162.159.130.234:443 cached
+OK 222ms studio.10media.top:443 cached
+OK 2ms 188.114.99.0:8880 cached
+OK 185ms 150.40.126.22:443 cached
+OK 178ms 150.40.126.24:443 cached
+OK 725ms reaza.localip.ir:443 cached
+OK 352ms 36a466g.fi1.h1clayd.click:443 cached
+OK 241ms bg4.univesalsrv.com:443 cached
+OK 202ms bg3.univesalsrv.com:443 cached
+OK 5ms cl-glb6e059ee.gcdn.co:443 cached
+OK 409ms samgeez.online:8443 cached
+OK 248ms rs2.univesalsrv.com:443 cached
+OK 1ms 151.101.173.81:443 cached
+OK 5ms 188.114.98.0:2053 cached
+OK 321ms 13.140.56.100:14430 cached
+OK 211ms nl2.balancer.vbuste-bot.com:443 cached
+OK 85ms www.epicgames.com:2095 cached
+OK 78ms us2-2.998998.best:443 cached
+OK 149ms 193.233.82.201:443 cached
+OK 297ms 95.174.68.188:14430 cached
+OK 408ms cmfree-hkt.leyali.kdns.fr:443 cached
+OK 156ms 185.125.50.181:443 cached
+OK 194ms 89.35.14.34:443 cached
+OK 142ms 140.225.199.234:443 cached
+OK 183ms fl1.balancer.vbuste-bot.com:443 cached
+OK 3ms 172.64.229.129:2052 cached
+OK 190ms 89.35.14.31:443 cached
+OK 354ms md2.univesalsrv.com:443 cached
+OK 245ms du-rov.secureservice.top:8443 cached
+OK 144ms 130.49.161.70:443 cached
+OK 270ms 84.23.54.115:443 cached
+OK 199ms 84.23.52.120:34443 cached
+OK 475ms sw-api.telemetryapi.org:443 cached
 OK 162ms files-qzgs.login.opendns.stream:443 cached
-OK 202ms hawthorn.falmero.store:443
-OK 203ms 171.22.129.227:443
+OK 158ms 189.74.115.3:443
+OK 271ms az2.chick-chirik.com:18582
+OK 173ms 84.54.47.216:443
+OK 9ms 45.67.215.21:443
+OK 280ms moonwort.gerqix.autos:443 cached
+OK 113ms 185.178.208.167:443 cached
+OK 228ms windflower.elvano.website:443
+OK 217ms ws3.falmero.store:443
+OK 202ms hawthorn.falmero.store:443 cached
+OK 199ms larkspur.gerqix.online:443
+OK 170ms 168.113.142.192:443
 OK 190ms td.vmagnum.win:443 cached
-OK 156ms 31.177.111.183:443 cached
-OK 195ms e3.cdnwh.icu:443 cached
-OK 263ms 160.5.217.235:18569
+OK 159ms 45.142.44.199:443
+OK 204ms 8a2e72t.nl11.h1clayd.click:443 cached
+OK 173ms 88.210.34.18:443
+OK 256ms nl.chick-chirik.com:443
+OK 167ms 213.171.24.52:443
+OK 165ms 82.202.156.115:443
+OK 212ms r1.sklserv.com:443
