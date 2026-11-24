@@ -1,13 +1,16 @@
-OK 350ms sw-api.telemetryapi.org:443 cached
-OK 162ms files-qzgs.login.opendns.stream:443
-OK 6ms 45.67.215.111:443
-OK 8ms 45.67.215.20:443
-OK 113ms 185.178.208.167:443
-OK 114ms 95.129.236.239:443
-OK 190ms td.vmagnum.win:443
-OK 178ms 0ef47cx.se4.h1clayd.click:443 cached
-OK 140ms 9ed8a8t.se4.h1clayd.click:443 cached
-OK 229ms 136.234.20.130:443
-OK 196ms 194.226.98.175:24645
-OK 195ms e3.cdnwh.icu:443
-OK 156ms 31.177.111.183:443
+OK 201ms 95.163.211.237:8080
+OK 188ms 95.163.211.237:80
+OK 280ms moonwort.gerqix.autos:443
+OK 114ms 95.129.236.239:443 cached
+OK 6ms 45.67.215.111:443 cached
+OK 2ms 45.67.215.17:443
+OK 8ms 45.67.215.20:443 cached
+OK 475ms sw-api.telemetryapi.org:443
+OK 162ms files-qzgs.login.opendns.stream:443 cached
+OK 202ms hawthorn.falmero.store:443
+OK 270ms 84.23.54.115:443
+OK 203ms 171.22.129.227:443
+OK 190ms td.vmagnum.win:443 cached
+OK 156ms 31.177.111.183:443 cached
+OK 195ms e3.cdnwh.icu:443 cached
+OK 263ms 160.5.217.235:18569
