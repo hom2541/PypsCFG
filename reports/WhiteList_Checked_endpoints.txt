@@ -1,98 +1,92 @@
-OK 228ms saas.sin.fan:443 cached
-OK 200ms bg5.univesalsrv.com:443 cached
-OK 2ms 188.114.98.0:443 cached
-OK 221ms bg2.univesalsrv.com:443 cached
-OK 2ms 104.17.147.22:443 cached
-OK 223ms yoy-api.bachidze.com:443 cached
-OK 2ms 172.64.150.43:443 cached
-OK 2ms 162.159.135.234:443 cached
-OK 321ms md3.univesalsrv.com:443 cached
-OK 196ms qq.utiltools.site:443 cached
-OK 189ms 45.12.63.96:443 cached
-OK 6ms www.speedtest.net:443 cached
-OK 178ms 150.40.126.21:443 cached
-OK 7ms 188.114.97.6:443 cached
-OK 232ms rs1.univesalsrv.com:443 cached
-OK 240ms rs4.univesalsrv.com:443 cached
-OK 229ms rs5.univesalsrv.com:443 cached
-OK 2ms 172.64.153.61:443 cached
-OK 197ms 89.35.14.32:443 cached
-OK 268ms rs3.univesalsrv.com:443 cached
-OK 171ms edge.bookmai.com:443 cached
-OK 2ms 162.159.130.234:443 cached
-OK 222ms studio.10media.top:443 cached
-OK 2ms 188.114.99.0:8880 cached
-OK 185ms 150.40.126.22:443 cached
-OK 178ms 150.40.126.24:443 cached
-OK 725ms reaza.localip.ir:443 cached
-OK 352ms 36a466g.fi1.h1clayd.click:443 cached
-OK 241ms bg4.univesalsrv.com:443 cached
-OK 202ms bg3.univesalsrv.com:443 cached
-OK 5ms cl-glb6e059ee.gcdn.co:443 cached
-OK 409ms samgeez.online:8443 cached
-OK 248ms rs2.univesalsrv.com:443 cached
-OK 1ms 151.101.173.81:443 cached
-OK 5ms 188.114.98.0:2053 cached
-OK 321ms 13.140.56.100:14430 cached
-OK 211ms nl2.balancer.vbuste-bot.com:443 cached
-OK 85ms www.epicgames.com:2095 cached
-OK 78ms us2-2.998998.best:443 cached
-OK 149ms 193.233.82.201:443 cached
-OK 297ms 95.174.68.188:14430 cached
-OK 408ms cmfree-hkt.leyali.kdns.fr:443 cached
-OK 156ms 185.125.50.181:443 cached
-OK 194ms 89.35.14.34:443 cached
-OK 142ms 140.225.199.234:443 cached
-OK 183ms fl1.balancer.vbuste-bot.com:443 cached
-OK 3ms 172.64.229.129:2052 cached
-OK 190ms 89.35.14.31:443 cached
-OK 354ms md2.univesalsrv.com:443 cached
-OK 245ms du-rov.secureservice.top:8443 cached
-OK 144ms 130.49.161.70:443 cached
-OK 127ms 185.86.147.175:443
-OK 136ms 185.86.147.33:443
-OK 131ms 185.86.145.183:443
-OK 137ms 103.88.241.220:443
-OK 127ms 193.160.208.21:443
-OK 130ms 88.218.170.118:443
-OK 89ms 185.178.208.167:443
-OK 297ms r2.pythonmakemigreat.wiki:8443
-OK 133ms 93.93.207.222:443
-OK 130ms 194.53.175.27:443
-OK 332ms edge07.tunnely.space:443
-OK 125ms 176.123.167.124:443
-OK 130ms 88.210.52.136:443
-OK 125ms 136.234.16.199:443
-OK 178ms 213.183.45.23:8454
-OK 9ms 45.67.215.21:443 cached
-OK 122ms 94.139.255.145:443
-OK 200ms woodgrain.filnex.baby:443
-OK 319ms 213.183.45.23:8462
-OK 382ms 213.183.41.31:8463
-OK 131ms 176.123.162.82:443
-OK 142ms 213.183.45.23:8450
-OK 315ms 213.183.45.23:8444
-OK 133ms 91.142.79.131:443
-OK 278ms edge03.tunnely.space:443
-OK 120ms 200.169.180.65:443
-OK 274ms edge02.tunnely.space:443
-OK 136ms 178.177.17.207:8446
-OK 285ms 213.183.41.31:8459
-OK 120ms 188.225.56.100:443
-OK 142ms e2.cdnwh.icu:443
-OK 120ms 90.156.226.200:443
-OK 133ms 82.202.138.238:443
-OK 120ms 5.101.67.136:443
-OK 352ms yellow-5hmq5ehr3ievlnabv8l2.concept7.ru:443
-OK 129ms 109.71.247.170:443
-OK 130ms 195.209.208.242:443
-OK 129ms 195.209.221.16:443
-OK 123ms 195.209.223.32:443
-OK 132ms 87.242.103.68:443
-OK 127ms 45.150.238.201:20443
-OK 261ms dc.insidenet.ru:20443
-OK 130ms 201.24.123.238:443
-OK 130ms 87.242.95.197:443
-OK 275ms ecs.champmoney.ru:443
-OK 128ms 217.19.123.31:443
-OK 408ms timeweb-2hmq5ehr3ievlnabv8l2.concept7.ru:443
+OK 185ms 78.159.240.62:2053
+OK 221ms 95.163.232.8:555
+OK 200ms 37.139.42.227:7443
+OK 135ms 178.176.128.128:443 cached
+OK 149ms 185.177.229.95:1270
+OK 155ms 91.219.23.76:443
+OK 135ms 78.159.250.83:443 cached
+OK 248ms 31.129.42.97:8443 cached
+OK 197ms 78.159.250.83:8443 cached
+OK 160ms 109.120.179.99:443 cached
+OK 173ms 37.139.34.90:443 cached
+OK 172ms 51.250.87.28:443 cached
+OK 174ms 5.188.141.139:443 cached
+OK 172ms 51.250.15.61:443 cached
+OK 190ms 51.250.86.102:443
+OK 168ms 51.250.74.50:443 cached
+OK 170ms 51.250.72.20:443 cached
+OK 170ms 51.250.13.243:443 cached
+OK 136ms 78.159.111.14:443 cached
+OK 174ms 51.250.84.253:443 cached
+OK 172ms 51.250.117.30:443 cached
+OK 171ms 51.250.70.163:443 cached
+OK 174ms 51.250.92.100:443 cached
+OK 170ms 51.250.90.142:443 cached
+OK 176ms 95.163.251.110:443 cached
+OK 183ms 78.159.240.72:8443
+OK 182ms 78.159.250.155:8443 cached
+OK 155ms 89.208.113.16:443 cached
+OK 134ms 45.129.242.56:443 cached
+OK 198ms 95.163.211.237:8080
+OK 193ms 95.163.211.237:80
+OK 198ms saas.sin.fan:443
+OK 195ms bg5.univesalsrv.com:443
+OK 6ms 188.114.98.0:443
+OK 223ms bg2.univesalsrv.com:443
+OK 6ms 104.17.147.22:443
+OK 315ms yoy-api.bachidze.com:443
+OK 6ms 172.64.150.43:443
+OK 6ms 162.159.135.234:443
+OK 326ms md3.univesalsrv.com:443
+OK 243ms qq.utiltools.site:443
+OK 205ms 45.12.63.96:443
+OK 164ms www.speedtest.net:443
+OK 172ms 150.40.126.21:443
+OK 7ms 188.114.97.6:443
+OK 233ms rs1.univesalsrv.com:443
+OK 178ms rs4.univesalsrv.com:443
+OK 199ms rs5.univesalsrv.com:443
+OK 6ms 172.64.153.61:443
+OK 201ms 89.35.14.32:443
+OK 183ms rs3.univesalsrv.com:443
+OK 200ms edge.bookmai.com:443
+OK 5ms 162.159.130.234:443
+OK 355ms studio.10media.top:443
+OK 9ms 188.114.99.0:8880
+OK 177ms 150.40.126.22:443
+OK 178ms 150.40.126.24:443
+OK 628ms reaza.localip.ir:443
+OK 556ms 36a466g.fi1.h1clayd.click:443
+OK 199ms bg4.univesalsrv.com:443
+OK 246ms bg3.univesalsrv.com:443
+OK 90ms cl-glb6e059ee.gcdn.co:443
+OK 366ms samgeez.online:8443
+OK 270ms freede.aiage.work:443
+OK 187ms rs2.univesalsrv.com:443
+OK 7ms 151.101.173.81:443
+OK 6ms 188.114.98.0:2053
+OK 208ms 13.140.56.100:14430
+OK 205ms nl2.balancer.vbuste-bot.com:443
+OK 71ms www.epicgames.com:2095
+OK 101ms us2-2.998998.best:443
+OK 147ms 193.233.82.201:443
+OK 244ms 95.174.68.188:14430
+OK 429ms de2.balancer.vbuste-bot.com:443
+OK 453ms cmfree-hkt.leyali.kdns.fr:443
+OK 166ms 185.125.50.181:443
+OK 208ms 89.35.14.34:443
+OK 150ms 140.225.199.234:443
+OK 189ms 72.56.241.230:443
+OK 295ms fl1.balancer.vbuste-bot.com:443
+OK 23ms 172.64.229.129:2052
+OK 406ms de1.balancer.vbuste-bot.com:443
+OK 194ms 89.35.14.31:443
+OK 337ms md2.univesalsrv.com:443
+OK 154ms 64.188.70.56:443
+OK 138ms 130.49.161.70:443
+OK 613ms ws.quantum.vodka:1443
+OK 205ms r1.pythonmakemigreat.wiki:8443 cached
+OK 237ms r3.pythonmakemigreat.wiki:8443
+OK 224ms r7.pythonmakemigreat.wiki:8443
+OK 244ms 195.209.213.70:443
+OK 314ms smartcdn.top:443
