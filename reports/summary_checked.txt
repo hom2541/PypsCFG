@@ -1,6 +1,6 @@
-BlackList: raw=2371, checked=1383
-WhiteList: raw=855, checked=341
+BlackList: raw=2982, checked=1950
+WhiteList: raw=344, checked=155
 FavoriteSubBlack: raw=0, checked=0
-LiteBlackList: raw=1218, checked=708
-LiteWhiteList: raw=134, checked=124
-merged_all_Checked: 1724
+LiteBlackList: raw=1218, checked=695
+LiteWhiteList: raw=21, checked=21
+merged_all_Checked: 2101
