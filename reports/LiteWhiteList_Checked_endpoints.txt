@@ -1,5 +1,8 @@
-OK 181ms 83.166.254.97:11443
-OK 185ms 87.242.102.222:443
-OK 188ms 93.184.169.233:443
-OK 185ms 84.23.52.100:443
+OK 213ms r7.pythonmakemigreat.wiki:8443
+OK 225ms r9.pythonmakemigreat.wiki:8443 cached
+OK 292ms 079b6et.ee5.h1clayd.shop:443 cached
+OK 250ms e54b10x.ee5.h1clayd.shop:443 cached
 OK 131ms 185.178.208.167:443 cached
+OK 203ms ru-cloudru.funky-monkey.app:443
+OK 177ms 45.9.14.195:8445
+OK 195ms 155.212.186.34:8443
