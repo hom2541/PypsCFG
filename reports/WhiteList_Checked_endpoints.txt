@@ -1,37 +1,5 @@
-OK 181ms 95.163.211.237:8080
-OK 185ms 95.163.211.237:80
-OK 181ms 78.159.240.11:445
-OK 194ms 84.201.130.151:443 cached
-OK 182ms 95.163.232.8:555
-OK 167ms 109.120.179.99:443
-OK 178ms 51.250.87.28:443
-OK 184ms 5.188.141.139:443
-OK 194ms 51.250.86.102:443 cached
-OK 182ms 51.250.74.50:443
-OK 173ms 51.250.72.20:443
-OK 173ms 51.250.13.243:443
-OK 143ms 78.159.111.14:443
-OK 173ms 51.250.84.253:443
-OK 179ms 51.250.117.30:443
-OK 177ms 51.250.70.163:443
-OK 177ms 51.250.92.100:443
-OK 179ms 51.250.90.142:443
-OK 178ms 95.163.251.110:443
-OK 163ms 217.12.219.118:443 cached
-OK 185ms 78.159.240.62:2053 cached
-OK 234ms 79.174.92.10:443 cached
-OK 181ms 178.176.128.128:443 cached
-OK 172ms 37.139.42.179:443 cached
-OK 181ms 178.176.128.203:443 cached
-OK 186ms 37.139.42.227:7443 cached
-OK 161ms 91.219.23.76:443 cached
-OK 151ms 185.177.229.95:1270 cached
-OK 178ms 78.159.250.83:443 cached
-OK 171ms 31.129.42.97:8443 cached
-OK 236ms 78.159.250.83:8443 cached
-OK 169ms 78.159.250.155:8443
-OK 155ms 89.208.113.16:443
-OK 202ms 130.193.35.149:8444
+OK 181ms 95.163.211.237:8080 cached
+OK 185ms 95.163.211.237:80 cached
 OK 476ms saas.sin.fan:443 cached
 OK 209ms bg5.univesalsrv.com:443 cached
 OK 6ms 188.114.98.0:443 cached
@@ -84,58 +52,8 @@ OK 191ms 89.35.14.31:443 cached
 OK 259ms md2.univesalsrv.com:443 cached
 OK 162ms 64.188.70.56:443 cached
 OK 139ms 130.49.161.70:443 cached
-OK 183ms 158.160.231.108:8443 cached
-OK 136ms 109.69.218.165:443 cached
-OK 139ms 109.69.218.167:443 cached
-OK 138ms 109.69.218.166:443 cached
-OK 22ms 104.26.12.31:80 cached
-OK 30ms 104.18.3.108:8443 cached
-OK 10ms 104.31.16.158:443 cached
-OK 11ms 172.67.204.84:443 cached
-OK 15ms 188.114.96.3:443 cached
-OK 157ms 144.31.171.182:443 cached
-OK 23ms 104.21.61.58:443 cached
-OK 5ms 185.148.107.253:8880 cached
-OK 232ms test.firm-tower.test-cdn-kkk.com:443 cached
-OK 5ms 45.130.125.253:8880 cached
-OK 209ms 84.201.131.34:443 cached
-OK 191ms 103.213.249.46:443 cached
-OK 180ms test.vast-mesa.test-cdn-kkk.com:443 cached
-OK 23ms 104.18.2.108:8443 cached
-OK 161ms 193.24.235.214:443 cached
-OK 146ms 159.65.125.162:2087 cached
-OK 28ms 104.18.2.26:2083 cached
-OK 22ms 104.21.25.157:443 cached
-OK 5ms 198.177.56.253:8880 cached
-OK 9ms 141.101.123.253:8880 cached
-OK 7ms 92.53.191.253:8880 cached
-OK 143ms 109.69.218.164:443 cached
-OK 23ms 104.18.3.150:443 cached
-OK 223ms 185.177.219.186:443 cached
-OK 22ms 104.18.3.26:2083 cached
-OK 65ms cdn.prostovpn.website:2087 cached
-OK 231ms test.grey-lance.test-cdn-kkk.com:443 cached
-OK 201ms test.red-blaze.test-cdn-kkk.com:443 cached
-OK 343ms test.soft-blade.test-cdn-kkk.com:443 cached
-OK 654ms hu.chocolatemango.live:443 cached
-OK 65ms square-sea-36d2.sendconfig.workers.dev:443 cached
-OK 208ms test.raw-maple.test-cdn-kkk.com:443 cached
-OK 252ms test.bold-stone.test-cdn-kkk.com:443 cached
-OK 551ms nl.normbot.ru:443 cached
-OK 255ms test.iron-coral.test-cdn-kkk.com:443 cached
-OK 192ms www.visaeurope.ch:2083 cached
-OK 61ms cf.008500.xyz:443 cached
-OK 144ms www.visasoutheasteurope.com:2096 cached
-OK 224ms test.wide-frost.test-cdn-kkk.com:8443 cached
-OK 293ms srv31.towersflowerss.com:443 cached
-OK 213ms r7.pythonmakemigreat.wiki:8443
-OK 225ms r9.pythonmakemigreat.wiki:8443 cached
-OK 292ms 079b6et.ee5.h1clayd.shop:443 cached
-OK 250ms e54b10x.ee5.h1clayd.shop:443 cached
-OK 131ms 185.178.208.167:443 cached
-OK 203ms ru-cloudru.funky-monkey.app:443
-OK 177ms 45.9.14.195:8445
-OK 195ms 155.212.186.34:8443
+OK 138ms 185.178.208.140:443 cached
+OK 481ms pyskyzoc.edgecdn.pro:443
 OK 139ms nl.fatvenv.space:443 cached
 OK 168ms usa.fatvenv.space:443 cached
 OK 139ms dem.fatvenv.space:443 cached
